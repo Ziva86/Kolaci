@@ -1,3 +1,3 @@
 # Kolaci
 demo
-http://kolaci.twomini.com/kolaci/index
+http://kolaci2.byethost12.com/
