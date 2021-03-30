@@ -31,7 +31,8 @@ body {
 	width:200px;
 	height:42px;
 	text-indent:-9999px;
-	margin:20px  0;
+	margin:21px  0;
+	
 }
 * html #earthproduct-net #logo {/* PNG Alpha IE Win ONLY */
 	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='../images/logo.png', sizingMethod='scale');
