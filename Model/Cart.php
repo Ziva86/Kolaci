@@ -37,6 +37,7 @@ class Cart{
                 $details['qty']=$quantity;
                 $details['price']=$price;
                 $_SESSION['cart'][]=$details;
+                echo "Mare";
                 $result=TRUE;
             }else
             {
